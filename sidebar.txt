@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bsp:home|Door43 (bsp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bsp|d43-bsp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bsp/archive/master.zip|d43-bsp.zip]]
+
+**Recent Changes**
+{{changes>ns = bsp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bsp|Ethnologue data]]
+
